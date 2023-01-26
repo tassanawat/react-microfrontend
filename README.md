@@ -1,7 +1,10 @@
 # micro
 
-  npm i
-  npm start
+#Install Dependency
+npm i
+  
+#Start web  
+npm start
 
 
 Ref: 

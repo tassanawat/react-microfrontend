@@ -1,6 +1,6 @@
 # micro
 
-#Install Dependency 
+#Install dependeny 
 npm i
   
 #Start web  

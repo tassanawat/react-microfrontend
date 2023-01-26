@@ -38,7 +38,8 @@ npm run build:dev
 To start the application in development mode, open a browser window and go to http://localhost:8081, then run: 
 ```bash 
 npm start 
-```  									    To start the application in live-reload mode, open a browser window and go to http://localhost:8081, then run:   ```bash npm start:live ```
+```  									    
+To start the application in live-reload mode, open a browser window and go to http://localhost:8081, then run:   ```bash npm start:live ```
 
  ## License
 
